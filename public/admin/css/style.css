@@ -1,0 +1,15 @@
+#icon-ban {
+	color:#d73925;
+}
+#icon-check {
+	color:#008d4c;
+	font-style: 16px !important;
+}
+
+.text-height {
+    line-height: 100px !important;
+}
+
+.mg-top-20 {
+	margin-top: 20px;
+}

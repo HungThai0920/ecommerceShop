@@ -1,0 +1,1 @@
+Click on the link to change your password.<a href="{{ url('admin/getTokenResetPassword/'.$token) }}" >Confirm email.</a>
